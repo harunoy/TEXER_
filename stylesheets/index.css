@@ -1,0 +1,116 @@
+body{
+background-color: #68BAB5;
+}
+
+<!--画像や文字-->
+container{
+    width:600px;
+    height: 600px;
+    position: relative;
+}
+  .container img{
+    width:100%;
+  }
+  p{
+    position: absolute;
+    top: 400px;;
+    left: 120px;;
+    font-size:40px;
+    color: #2C4372;
+    ;
+    padding:0;
+    margin:0;
+  }
+
+  p2{
+    position: absolute;
+    top: 470px;
+    left: 120px;;
+    font-size:40px;
+    color: #2C4372;
+    ;
+    padding:0;
+    margin:0;
+  }
+  p3{
+    position: absolute;
+    top: 540px;
+    left: 120px;
+    font-size:40px;
+    color: #2C4372;
+    ;
+    padding:0;
+    margin:0;
+  }
+  p4{
+    position: absolute;
+    top: 690px;
+    left: 120px;
+    font-size:40px;
+    color: #2C4372;
+    ;
+    padding:0;
+    margin:0;
+  }
+  p5{
+    position: absolute;
+    top: 770px;
+    left: 120px;
+    font-size:40px;
+    color: #2C4372;
+    ;
+    padding:0;
+    margin:0;
+  }
+
+  .btn1 {
+    border-radius: 5px;
+    background-color:#2C4372;
+    padding: 10px;
+    text-decoration: none;
+    color:#FDF7E7;
+    position: absolute;
+    top: 1170px;
+    left: 280px;
+    font-size:50px;
+    padding:0;
+    margin:0;
+  }
+  .btn2 {
+    border-radius: 5px;
+    background-color:#2C4372;
+    padding: 10px;
+    text-decoration: none;
+    color:#FDF7E7;
+    position: absolute;
+    top: 1170px;
+    left: 960px;
+    font-size:50px;
+    padding:0;
+    margin:0;
+  }
+  .btn3 {
+    border-radius: 5px;
+    background-color:#2C4372;
+    padding: 10px;
+    text-decoration: none;
+    color:#FDF7E7;
+    position: absolute;
+    top: 1175px;
+    left: 1620px;
+    font-size:50px;
+    padding:0;
+    margin:0;
+  }
+
+  footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    height: 30px;
+    background-color:#68BAB5 ;
+    font-size: 15px;
+    color: #fff;
+  }
+
